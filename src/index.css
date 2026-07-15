@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body{
+  background-color: rgb(80, 74, 74);
+  cursor: default;
+}
