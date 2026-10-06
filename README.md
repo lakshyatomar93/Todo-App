@@ -1,68 +1,49 @@
-# 🎵 Spotify Clone
+# 📝 iTask - Todo App
 
-A responsive Spotify-inspired music streaming web application built using HTML, CSS, and JavaScript. This project replicates the core UI and music playback experience of Spotify while demonstrating responsive design and JavaScript DOM manipulation.
+A simple, responsive Todo application built using React.js, Vite and Tailwind CSS.
 
-## 🌐 Live Demo
+## 🚀 Live Demo
 
-👉 https://lakshyatomar93.github.io/spotify-clone/
-
-## 📸 Preview
-
-![Spotify Clone](preview.png)
+[View iTask Live](https://lakshyatomar93.github.io/Todo-App/)
 
 ## ✨ Features
 
-- 🎵 Music playback
-- ⏯️ Play / Pause controls
-- ⏭️ Next & Previous song navigation
-- 📊 Interactive seek bar
-- 🔊 Volume control
-- 📁 Multiple playlists
-- 📱 Responsive design for desktop and mobile
-- ⚡ Fast and lightweight UI
+- ➕ Add new todos
+- ✏️ Edit todos
+- 🗑️ Delete todos
+- ✅ Mark todos as completed
+- 👁️ Show/hide completed todos
+- 💾 Store todos using Local Storage
+- 📱 Fully responsive design
+- ⌨️ Press Enter to add a todo
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- Git
-- GitHub
-- GitHub Pages
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- React Icons
+- UUID
+- Local Storage
 
-## 📂 Folder Structure
+## 📱 Responsive Design
 
-```text
-spotify-clone/
-│── index.html
-│── style.css
-│── script.js
-│── preview.png
-│── songs/
-│── svgfolder/
-```
+The application is designed to work on:
 
-## 🚀 Installation
+- 📱 Mobile
+- 💻 Laptop
+- 🖥️ Desktop
+
+## 💾 Data Storage
+
+Todos are stored in the browser's `localStorage`, so your todos remain available after refreshing the page on the same browser/device.
+
+> Note: Todos are stored locally in the browser and are not synchronized between different devices or browsers.
+
+## 📦 Installation
+
+Clone the repository:
 
 ```bash
-git clone https://github.com/lakshyatomar93/spotify-clone.git
-```
-
-Open `index.html` using **Live Server** or visit the live demo.
-
-## 🎯 Learning Outcomes
-
-During this project, I learned:
-
-- Responsive web design
-- DOM manipulation
-- JavaScript event handling
-- Audio API
-- Git & GitHub
-- Deploying projects with GitHub Pages
-
-## 👨‍💻 Author
-
-**Lakshya Tomar**
-
-GitHub: https://github.com/lakshyatomar93
+git clone https://github.com/lakshyatomar93/Todo-App.git
