@@ -1,16 +1,68 @@
-# React + Vite
+# 🎵 Spotify Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive Spotify-inspired music streaming web application built using HTML, CSS, and JavaScript. This project replicates the core UI and music playback experience of Spotify while demonstrating responsive design and JavaScript DOM manipulation.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+👉 https://lakshyatomar93.github.io/spotify-clone/
 
-## React Compiler
+## 📸 Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Spotify Clone](preview.png)
 
-## Expanding the Oxlint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- 🎵 Music playback
+- ⏯️ Play / Pause controls
+- ⏭️ Next & Previous song navigation
+- 📊 Interactive seek bar
+- 🔊 Volume control
+- 📁 Multiple playlists
+- 📱 Responsive design for desktop and mobile
+- ⚡ Fast and lightweight UI
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Git
+- GitHub
+- GitHub Pages
+
+## 📂 Folder Structure
+
+```text
+spotify-clone/
+│── index.html
+│── style.css
+│── script.js
+│── preview.png
+│── songs/
+│── svgfolder/
+```
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/lakshyatomar93/spotify-clone.git
+```
+
+Open `index.html` using **Live Server** or visit the live demo.
+
+## 🎯 Learning Outcomes
+
+During this project, I learned:
+
+- Responsive web design
+- DOM manipulation
+- JavaScript event handling
+- Audio API
+- Git & GitHub
+- Deploying projects with GitHub Pages
+
+## 👨‍💻 Author
+
+**Lakshya Tomar**
+
+GitHub: https://github.com/lakshyatomar93
